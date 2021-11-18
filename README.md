@@ -19,8 +19,8 @@ Then install all these packages
 `@react-navigation/stack`
 
 # How to run the project
-To run the project on Android type `expo android`
+To run the project on Android type `expo start --android`
 
-To run the project on IOS type `expo ios`
+To run the project on IOS type `expo start --ios`
 
-To run the project on web type `expo start`
+To run the project on web type `expo start` or `expo start --web`
