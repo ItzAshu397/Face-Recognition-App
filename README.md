@@ -2,6 +2,7 @@
 Face Recognition App created with the help of React Native Framework.
 
 Required packages
+
 `expo-camera`
 
 `expo-permissions`
